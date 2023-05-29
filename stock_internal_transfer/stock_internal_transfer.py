@@ -21,7 +21,7 @@
 
 from openerp.osv import orm, fields
 from openerp.netsvc import LocalService
-import openerp.addons.decimal_precision as dp
+import decimal_precision as dp
 from openerp.tools.translate import _
 
 
